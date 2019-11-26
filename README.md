@@ -1,2 +1,2 @@
 # Boston-house-price-gradient-descent
-Linear regression machine learning algo.
+Estimating the price of houses in Boston using Linear regression algorithm of machine learning.
